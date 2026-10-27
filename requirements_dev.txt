@@ -1,2 +1,2 @@
-graphql-core==3.2.3
+graphql-core==3.2.12
 pycasbin>=2.0.0
